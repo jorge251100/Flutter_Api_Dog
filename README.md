@@ -1,16 +1,3 @@
-# my_first_api
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ejemplo de aplicación en Android Studio para llamar una Api y utilizar picasso para la muestra de imágenes
+![image](https://github.com/jorge251100/Flutter_Api_Dog/assets/89675378/a5aec10c-97d5-46b6-a1ff-c0d0d193778f)
+![image](https://github.com/jorge251100/Flutter_Api_Dog/assets/89675378/0b825ff0-d736-4964-ab38-a1621265c353)
